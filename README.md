@@ -1,6 +1,4 @@
-Here is a **GitHub `README.md`** file for your project. It focuses on **installation, requirements, and how to run the app**.  
 
----
 
 ### **README.md**  
 
@@ -25,7 +23,7 @@ This project enables **serial communication** between an **Android device** and 
 
 ### ** Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/bleuio-serial.git
+git clone https://github.com/smart-sensor-devices-ab/bleuio-serial-android.git
 cd bleuio-serial
 ```
 
